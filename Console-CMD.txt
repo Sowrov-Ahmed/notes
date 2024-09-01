@@ -1,3 +1,3 @@
 Ctrl + C                             => To stop/halt a running command
 Ctrl + K                             => To clear the console 
-Ctrl + /                             => Comment out HTML in the Chrome browser console
+Ctrl + /                             => for commenting in the Chrome browser console

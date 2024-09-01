@@ -7,7 +7,7 @@ Shift + Alt + Down arrow  => for coping the current line
 
 
 Ctrl + /                  => for commenting
-shift + alt + a           => for comment JSX
+shift + alt + a           => for commenting JSX
 
 alt + z                   => for single line code wraps into multiple lines
 Shift + Alt + F           => for auto-formating code lines
