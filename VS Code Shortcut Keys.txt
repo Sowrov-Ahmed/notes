@@ -1,0 +1,15 @@
+Multi-Cursor Editing:
+ctrl + d                  => To modify Multiple same words all together one by one
+Ctrl + Shift + L          => To modify all instances of a word or phrase in a file          
+Alt + click               => Place Cursors Manually to modify text in all the selected locations at once
+
+Shift + Alt + Down arrow  => for coping the current line 
+
+
+Ctrl + /                  => for commenting
+shift + alt + a           => for comment JSX
+
+alt + z                   => for single line code wraps into multiple lines
+Shift + Alt + F           => for auto-formating code lines
+ctrl + `                  => for opening command prompt 
+
