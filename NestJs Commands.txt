@@ -1,0 +1,25 @@
+NestJs commands:
+
+
+npm run start:dev             => For run project
+
+npm i -g @nestjs/cli          => NestJs installation
+nest new project-name         => To create a new project
+
+
+npm install                   => Install everything at once in a project that is cloned from github.
+
+npm install --force
+or                            => Force Installation (Not Recommended)
+npm install --legacy-peer-deps
+npm cache clean --force       =>  clear npm cache
+
+
+npm install class-validator class-transformer        => For Global validation or va
+npm i @nestjs/config @nestjs/typeorm typeorm pg      => Command to install postgres driver for nestjs
+npm install --save @nestjs-modules/mailer nodemailer => For install Node Mailer package
+
+nest g resource user_name     => For creating all resource for a user
+
+
+

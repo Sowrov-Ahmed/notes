@@ -1,0 +1,19 @@
+NextJs commands:
+
+
+npm run dev                              => For run project
+
+npm run build                            => Run a production build locally to ensure everything works
+npm start                                => After build, to start a production start locally to ensure everything works
+
+npx create-next-app@latest               => NextJs installation & Creating a new project
+npx create-next-app@latest --typescript  => NextJs installation with TypeScript Project & Creating a new project
+
+
+npm install                              => Install everything at once in a project that is cloned from github.
+
+
+npm install --force
+or                            => Force Installation (Not Recommended)
+npm install --legacy-peer-deps
+npm cache clean --force       =>  clear npm cache

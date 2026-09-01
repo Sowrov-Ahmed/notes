@@ -1,0 +1,11 @@
+React commands:
+
+
+npm start / npm run dev                  => For run project
+
+npx create-react-app my-app              => React installation & Creating a new project
+
+
+npm install                              => Install everything at once in a project that is cloned from github.
+
+npm cache clean --force                  => Clear npm's cache using npm

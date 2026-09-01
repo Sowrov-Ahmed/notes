@@ -1,0 +1,15 @@
+post: localhost:3000/admin/signup
+      Body>form-data>key & value
+
+Get: http://localhost:3000/admin/index
+Get: http://localhost:3000/admin/findadmin?id=19&name=test
+Get: http://localhost:3000/admin/findadmin?name=test
+Get: http://localhost:3000/admin/findadmin/19
+Delete: http://localhost:3000/admin/deleteadmin/18
+post: http://localhost:3000/admin/signin
+      Body>raw>json>
+		{"":""}
+Get: http://localhost:3000/admin/signout
+put: localhost:3000/admin/updateadmin/19
+     Body>raw>json>
+	   {"":""}
