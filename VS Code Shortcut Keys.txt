@@ -12,4 +12,4 @@ shift + alt + a           => for comment JSX
 alt + z                   => for single line code wraps into multiple lines
 Shift + Alt + F           => for auto-formating code lines
 ctrl + `                  => for opening command prompt 
-
+Alt + Shift + f           => for using prettier
